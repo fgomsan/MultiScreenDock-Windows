@@ -7,12 +7,13 @@
 
   <Identity
     Name="FernandoGomezSancha.MultiScreenDock"
-    Publisher="CN=Fernando Gomez Sancha"
-    Version="1.5.0.0" />
+    Publisher="CN=472BFB1F-F75A-4F46-9A1F-11627E3DED87"
+    Version="1.5.0.0"
+    ProcessorArchitecture="neutral" />
 
   <Properties>
     <DisplayName>MultiScreenDock</DisplayName>
-    <PublisherDisplayName>Fernando Gómez Sancha</PublisherDisplayName>
+    <PublisherDisplayName>Fernando Gomez Sancha</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
