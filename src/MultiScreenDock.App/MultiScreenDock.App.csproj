@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>MultiScreenDock</AssemblyName>
+    <RootNamespace>MultiScreenDock.App</RootNamespace>
+    <Version>1.5.0</Version>
+    <Company>Fernando Gómez Sancha</Company>
+    <Product>MultiScreenDock</Product>
+    <Copyright>© 2026 Fernando Gómez Sancha</Copyright>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MultiScreenDock.Core\MultiScreenDock.Core.csproj" />
+  </ItemGroup>
+</Project>
