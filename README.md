@@ -1,8 +1,11 @@
 # MultiScreenDock for Windows (Windows 10 & Windows 11)
 
+[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_it_now-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9N08WLJHKWLR)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Windows 10 & 11](https://img.shields.io/badge/Windows-10%20%26%2011%20(x64%20%2B%20ARM64)-0078D4?logo=windows)](https://github.com/fgomsan/MultiScreenDock-Windows/releases)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fgomsan)
+
+**Get it on the official Microsoft Store:** [**https://apps.microsoft.com/detail/9N08WLJHKWLR**](https://apps.microsoft.com/detail/9N08WLJHKWLR) (or via [`ms-windows-store://pdp/?productid=9N08WLJHKWLR`](ms-windows-store://pdp/?productid=9N08WLJHKWLR)).
 
 **MultiScreenDock for Windows** brings the simultaneous multi-monitor frosted-glass Dock of [MultiScreenDock for macOS](https://github.com/fgomsan/MultiScreenDock) to **Windows 10 and Windows 11** — restoring **Left, Right, and Bottom Dock positions** (which Windows 11 removed from its native taskbar), **Smart Auto-Hide (IntelliHide)**, **120 Hz raised-cosine magnification with focal lock**, and **interactive Folder Stacks (Fan, Grid, and List)** across 2 to 6+ monitors.
 
